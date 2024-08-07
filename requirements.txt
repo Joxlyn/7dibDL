@@ -1,0 +1,9 @@
+discord.py==2.0.0a
+ffmpeg
+youtube_dl
+python-dotenv
+PyNaCl
+https://github.com/yt-dlp/yt-dlp/archive/refs/tags/2024.08.06.tar.gz
+https://github.com/coletdjnz/yt-dlp-youtube-oauth2.git
+yt_dlp
+google
